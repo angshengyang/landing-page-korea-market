@@ -1,12 +1,11 @@
-# [Start Bootstrap - Landing Page](https://startbootstrap.com/themes/landing-page/)
+# [Korea Family Market](https://startbootstrap.com/themes/landing-page/)
 
 [Landing Page](https://startbootstrap.com/themes/landing-page/) is a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](http://htmlpreview.github.io/?https://github.com/angshengyang/landing-page-korea-family-market/blob/master/landing_page/index.html)**
 
 ## Status
 
